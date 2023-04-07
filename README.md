@@ -1,4 +1,3 @@
-C#, asp.net
-Netstalking in my heart 
+.Net Developer
 
 
